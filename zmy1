@@ -8,6 +8,7 @@ public class Test3 {
 		frame.add(new JButton("按钮3"));
 		frame.add(new JButton("按钮4"));
 		frame.add(new JButton("按钮5"));
+		frame.add(new JButton("按钮6"));
 		frame.setVisible(true);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
